@@ -28,7 +28,8 @@ You can call me **Krisnanda** — a passionate and curious tech enthusiast curre
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Filament](https://img.shields.io/badge/Filament-0EA5A4?style=for-the-badge&logo=filament&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-20232A?style=for-the-badge&logo=filament&logoColor=61DAFB)
+
 
 
 
