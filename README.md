@@ -1,10 +1,10 @@
-# 👋 Hi there! I'm I Dewa Gede Mas Bagus Krisnanda
-
+# 💫 Hi there! I'm I Dewa Gede Mas Bagus Krisnanda
+---
 You can call me **Krisnanda** — a passionate and curious tech enthusiast currently pursuing my studies as a university student. My main focus is on **Front-End Development**, and I'm also exploring the world of **Full-Stack Development**.
 
 
 ## 👨‍💻 About Me
-
+---
 - 🎓 I'm a student with a strong interest in building clean, user-friendly web interfaces.
 - 🌱 Currently learning modern web technologies like **Laravel**, **React**, **Next.js**, and **Tailwind CSS**.
 - 🚀 Open to collaboration on web-based projects, especially in front-end or full-stack roles.
@@ -12,7 +12,7 @@ You can call me **Krisnanda** — a passionate and curious tech enthusiast curre
 
 
 ## 🔧 Tech Stack
-
+---
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,16 +39,17 @@ You can call me **Krisnanda** — a passionate and curious tech enthusiast curre
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krisnanda_mas/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krisnanda-mas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mail to: baguskrisna424@gmail.com)
+---
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krisnanda_mas/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krisnanda-mas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]mail to: baguskrisna424@gmail.com
 - Portofolio : https://krisnanda-portofolio.vercel.app/
 
 
 ## 📊 GitHub Stats:
+---
 ![](https://github-readme-stats.vercel.app/api?username=Krisnanda7&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Krisnanda7&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnanda7&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Krisnanda7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
