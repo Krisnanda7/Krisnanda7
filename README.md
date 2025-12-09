@@ -36,7 +36,9 @@ You can call me **Krisnanda** — a passionate and curious tech enthusiast curre
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krisnanda_mas/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krisnanda-mas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]mail to: baguskrisna424@gmail.com
+- Instagram  : https://www.instagram.com/krisnanda_mas/
+- Linkedin   : https://www.linkedin.com/in/krisnanda-mas
+- Email      : baguskrisna424@gmail.com
 - Portofolio : https://krisnanda-portofolio.vercel.app/
 
 
