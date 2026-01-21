@@ -4,7 +4,7 @@ You can call me **Krisnanda** — a passionate and curious tech enthusiast curre
 
 ## 👨‍💻 About Me
 - 🎓 I'm a student with a strong interest in building clean, user-friendly web interfaces.
-- 🌱 Currently learning modern web technologies like **Laravel**, **React**, **Next.js**, and **Tailwind CSS**.
+- 🌱 Currently Use modern web technologies like **Laravel**, **React**, **Next.js**, **Tailwind CSS** and **Expo**.
 - 🚀 Open to collaboration on web-based projects, especially in front-end or full-stack roles.
 - 💡 Always looking to improve and keep up with the latest tech trends.
 
