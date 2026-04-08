@@ -1,12 +1,24 @@
-# 💫 Hi there! I'm I Dewa Gede Mas Bagus Krisnanda
-You can call me **Krisnanda** — a passionate and curious tech enthusiast currently pursuing my studies as a university student. My main focus is on **Front-End Development**, and I'm also exploring the world of **Full-Stack Development**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:203a43&height=200&section=header&text=Hi,%20I'm%20Krisnanda&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer&descAlignY=60&descAlign=50"/>
+</p>
 
+---
+
+<h2 align="center">💫 I Dewa Gede Mas Bagus Krisnanda</h2>
+
+<p align="center">
+You can call me <b>Krisnanda</b> — a passionate and curious tech enthusiast 🚀
+</p>
+
+---
 
 ## 👨‍💻 About Me
-- 🎓 I'm a student with a strong interest in building clean, user-friendly web interfaces.
-- 🌱 Currently Use modern web technologies like **Laravel**, **React**, **Next.js**, **Tailwind CSS** and **Expo**.
-- 🚀 Open to collaboration on web-based projects, especially in front-end or full-stack roles.
-- 💡 Always looking to improve and keep up with the latest tech trends.
+- 🎓 I'm a student with a strong interest in building clean, user-friendly web interfaces  
+- 🌱 Currently using modern technologies like **Laravel**, **React**, **Next.js**, **Tailwind CSS**, and **Expo**  
+- 🚀 Open to collaboration on web-based projects (Front-End & Full-Stack)  
+- 💡 Always learning and keeping up with the latest tech trends  
+
+---
 
 
 ## 🔧 Tech Stack
