@@ -33,16 +33,11 @@
 ```typescript
 const krisnanda = {
   name     : "I Dewa Gede Mas Bagus Krisnanda",
-  alias    : "Krisnanda",
   role     : "Web Developer",
-  location : "Indonesia 🇮🇩",
-  status   : "Student & Passionate Builder",
 
   currentFocus : ["Laravel", "React", "Next.js", "Tailwind CSS", "Expo"],
   learning     : ["TypeScript", "Docker", "System Design"],
   openTo       : ["Front-End Collab", "Full-Stack Projects", "Open Source"],
-
-  funFact  : "I debug with console.log() and I'm proud of it 😄",
 };
 ```
 
