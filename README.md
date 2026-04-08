@@ -8,15 +8,8 @@
 
 <p align="center">
 You can call me <b>Krisnanda</b> — a passionate and curious tech enthusiast 🚀
+Currently using modern technologies like **Laravel**, **React**, **Next.js**, **Tailwind CSS**, and **Expo**  💡
 </p>
-
----
-
-## 👨‍💻 About Me
-- 🎓 I'm a student with a strong interest in building clean, user-friendly web interfaces  
-- 🌱 Currently using modern technologies like **Laravel**, **React**, **Next.js**, **Tailwind CSS**, and **Expo**  
-- 🚀 Open to collaboration on web-based projects (Front-End & Full-Stack)  
-- 💡 Always learning and keeping up with the latest tech trends  
 
 ---
 
