@@ -75,32 +75,6 @@ const krisnanda = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krisnanda7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnanda7&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Krisnanda7&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krisnanda7&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krisnanda7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</p>
-
----
-
 ## 💬 Random Dev Quote
 
 <p align="center">
