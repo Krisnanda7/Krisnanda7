@@ -21,9 +21,6 @@
   <a href="mailto:baguskrisna424@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Krisnanda7&label=Profile%20Views&color=1&icon=5&pretty=true"/>
-  </a>
 </p>
 
 ---
