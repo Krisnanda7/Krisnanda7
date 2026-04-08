@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20there!%20I'm%20Krisnanda%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20there!%20I'm%20Krisnanda%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+%26+modern+web+experiences;Laravel+%7C+React+%7C+Next.js+%7C+Tailwind;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+%26+modern+web+experiences;Laravel+%7C+React+%7C+Next.js+%7C+Tailwind;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
