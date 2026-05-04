@@ -28,15 +28,14 @@
 ```typescript
 const krisnanda = {
   name        : "I Dewa Gede Mas Bagus Krisnanda",
-  location    : "Bali, Indonesia 🌴",
-  role        : "Fullstack Web Developer",
+  role        : "Fullstack Web Developer, UI/UX, Product Management",
   passions    : ["Clean Code", "Great UX", "Scalable Systems"],
 
   currentStack : {
     frontend  : ["React", "Next.js", "Tailwind CSS", "TypeScript"],
     backend   : ["Laravel", "PHP", "Supabase"],
     mobile    : ["Expo (React Native)"],
-    tools     : ["Git", "Figma", "Postman", "Filament"],
+    tools     : ["Git", "Figma", "Postman", "Filament", "VS Code"],
   },
 
   learning     : ["Docker", "System Design", "Clean Architecture"],
