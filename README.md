@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Krisnanda&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=I%20Dewa%20Gede%20Mas%20Bagus%20Krisnanda&descAlignY=65&descAlign=50&descSize=18&descColor=a78bfa&stroke=a78bfa&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KRISNANDA&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=I%20Dewa%20Gede%20Mas%20Bagus%20Krisnanda&descAlignY=65&descAlign=50&descSize=18&descColor=a78bfa&stroke=a78bfa&strokeWidth=2"/>
 
 </div>
 
