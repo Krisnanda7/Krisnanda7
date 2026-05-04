@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KRISNANDA&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=I%20Dewa%20Gede%20Mas%20Bagus%20Krisnanda&descAlignY=65&descAlign=50&descSize=18&descColor=a78bfa&stroke=a78bfa&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Krisnanda&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=I%20Dewa%20Gede%20Mas%20Bagus%20Krisnanda&descAlignY=65&descAlign=50&descSize=18&descColor=a78bfa&stroke=a78bfa&strokeWidth=2"/>
 
 </div>
 
@@ -28,14 +28,15 @@
 ```typescript
 const krisnanda = {
   name        : "I Dewa Gede Mas Bagus Krisnanda",
-  role        : "Fullstack Web Developer, UI/UX, Product Management",
+  location    : "Bali, Indonesia 🌴",
+  role        : "Fullstack Web Developer",
   passions    : ["Clean Code", "Great UX", "Scalable Systems"],
 
   currentStack : {
     frontend  : ["React", "Next.js", "Tailwind CSS", "TypeScript"],
     backend   : ["Laravel", "PHP", "Supabase"],
     mobile    : ["Expo (React Native)"],
-    tools     : ["Git", "Figma", "Postman", "Filament", "VS Code"],
+    tools     : ["Git", "Figma", "Postman", "Filament"],
   },
 
   learning     : ["Docker", "System Design", "Clean Architecture"],
@@ -95,14 +96,14 @@ const krisnanda = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnanda-mas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnanda-mas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krisnanda7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnanda7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krisnanda-mas&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krisnanda7&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888"/>
 
 </div>
 
@@ -112,7 +113,7 @@ const krisnanda = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krisnanda-mas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Krisnanda7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 
 </div>
 
@@ -122,7 +123,7 @@ const krisnanda = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisnanda-mas&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=true&custom_title=Krisnanda's%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krisnanda7&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=true&custom_title=Krisnanda's%20Contribution%20Graph"/>
 
 </div>
 
@@ -133,9 +134,9 @@ const krisnanda = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krisnanda-mas/krisnanda-mas/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krisnanda-mas/krisnanda-mas/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krisnanda-mas/krisnanda-mas/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krisnanda7/Krisnanda7/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krisnanda7/Krisnanda7/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krisnanda7/Krisnanda7/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -159,8 +160,8 @@ const krisnanda = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=krisnanda-mas&label=Profile+Views&color=7c3aed&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/krisnanda-mas?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/krisnanda-mas?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Krisnanda7&label=Profile+Views&color=7c3aed&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Krisnanda7?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/Krisnanda7?tab=followers)
 
 </div>
 
