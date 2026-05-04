@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Krisnanda&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=I%20Dewa%20Gede%20Mas%20Bagus%20Krisnanda&descAlignY=65&descAlign=50&descSize=18&descColor=a78bfa&stroke=a78bfa&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KRISNANDA&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=I%20Dewa%20Gede%20Mas%20Bagus%20Krisnanda&descAlignY=65&descAlign=50&descSize=18&descColor=a78bfa&stroke=a78bfa&strokeWidth=2"/>
 
 </div>
 
@@ -28,8 +28,7 @@
 ```typescript
 const krisnanda = {
   name        : "I Dewa Gede Mas Bagus Krisnanda",
-  location    : "Bali, Indonesia 🌴",
-  role        : "Fullstack Web Developer",
+  role        : ["Fullstack Web Developer", "UI/UX", "Product Management"],
   passions    : ["Clean Code", "Great UX", "Scalable Systems"],
 
   currentStack : {
@@ -41,8 +40,6 @@ const krisnanda = {
 
   learning     : ["Docker", "System Design", "Clean Architecture"],
   openTo       : ["Freelance Projects", "Open Source", "Full-Stack Collabs"],
-
-  funFact      : "I design AND develop — Figma by day, Laravel by night 🌙",
 };
 ```
 
@@ -100,11 +97,8 @@ const krisnanda = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnanda7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div> -->
-
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krisnanda7&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=888888"/>
-
 </div>
 
 ---
