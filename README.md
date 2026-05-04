@@ -113,16 +113,6 @@ const krisnanda = {
 
 ---
 
-## 📈 Contribution Graph
-
-<!-- <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krisnanda7&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=true&custom_title=Krisnanda's%20Contribution%20Graph"/>
-
-</div>
-
---- -->
-
 ## 🐍 Contribution Snake
 
 <div align="center">
