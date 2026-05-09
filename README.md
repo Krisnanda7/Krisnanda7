@@ -23,7 +23,7 @@
 
 <br/>
 
-## 🧑‍💻 `whoami`
+## 🧑‍💻 `About Me`
 
 ```typescript
 const krisnanda = {
@@ -124,19 +124,6 @@ const krisnanda = {
 </picture>
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-```
-🔭  Building fullstack apps with Laravel + Next.js
-🌱  Deep-diving into TypeScript, Docker & System Design
-🤝  Looking to collaborate on innovative open-source projects
-💬  Ask me about PHP/Laravel, React, Tailwind, or UI/UX Design
-📩  Reach me at: baguskrisna424@gmail.com
-⚡  Fun fact: I can switch between dev mode and design mode in seconds!
-```
 
 ---
 
