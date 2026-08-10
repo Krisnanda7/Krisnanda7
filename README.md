@@ -103,16 +103,6 @@ const krisnanda = {
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krisnanda7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
